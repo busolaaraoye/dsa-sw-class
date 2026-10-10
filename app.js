@@ -2,4 +2,4 @@ function greet(name) {
     return `Hello, ${name}!`;
 }
 
-console.log(greet('software is life'));
+console.log(greet('software is the life'));
